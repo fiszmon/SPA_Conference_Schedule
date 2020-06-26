@@ -1,0 +1,1 @@
+export const selectSelectedDay = (state) => state.presentation.selectedDay;

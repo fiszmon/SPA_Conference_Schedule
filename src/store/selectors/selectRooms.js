@@ -1,0 +1,1 @@
+export const selectRooms = (state) => state.presentation.rooms

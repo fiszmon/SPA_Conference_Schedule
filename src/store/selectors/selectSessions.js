@@ -1,0 +1,1 @@
+export const selectSessions = (state) => state.presentation.sessions;

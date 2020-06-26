@@ -1,0 +1,8 @@
+const a = {
+    MONDAY: {
+
+    },
+    THURSDAY: {
+
+    }
+}

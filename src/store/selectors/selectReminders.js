@@ -1,0 +1,1 @@
+export const selectReminders = (state) => state.presentation.reminders;

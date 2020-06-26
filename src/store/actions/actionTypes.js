@@ -1,0 +1,8 @@
+export const LOGIN_USER = "LOGIN_USER";
+export const LOGOUT_USER = "LOGOUT_USER";
+export const SELECT_DAY = "SELECT_DAY";
+export const FETCH_PRESENTATIONS = "FETCH_PRESENTATIONS";
+export const FETCH_ERROR = "FETCH_ERROR";
+export const FETCH_PENDING = "FETCH_PENDING";
+export const ADD_REMINDER = "ADD_REMINDER";
+export const DELETE_REMINDER = "DELETE_REMINDER";

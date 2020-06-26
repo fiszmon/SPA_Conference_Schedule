@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="10mm"
+   height="10mm"
+   viewBox="0 0 10 10"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="18.768157"
+     inkscape:cy="16.861752"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-287)">
+    <ellipse
+       style="opacity:0.82900002;fill:#b3b3b3;fill-opacity:1;stroke-width:1.05200005;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path843"
+       cx="3.4912083"
+       cy="290.99478"
+       rx="0.71828681"
+       ry="0.39255211" />
+    <ellipse
+       style="opacity:0.82900002;fill:#b3b3b3;fill-opacity:1;stroke-width:1.05200005;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path843-8"
+       cx="3.240643"
+       cy="291.6546"
+       rx="0.71828681"
+       ry="0.39255211" />
+    <ellipse
+       style="opacity:0.82900002;fill:#b3b3b3;fill-opacity:1;stroke-width:1.05200005;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path843-4"
+       cx="3.2239387"
+       cy="292.38959"
+       rx="0.71828681"
+       ry="0.39255211" />
+    <ellipse
+       style="opacity:0.82900002;fill:#b3b3b3;fill-opacity:1;stroke-width:0.87745583;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path843-83"
+       cx="3.6081383"
+       cy="292.96591"
+       rx="0.61806077"
+       ry="0.31738254" />
+    <ellipse
+       style="opacity:0.82900002;fill:#b3b3b3;fill-opacity:1;stroke-width:0.85895443;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path872"
+       cx="-106.9482"
+       cy="269.20578"
+       rx="0.41760868"
+       ry="1.0356694"
+       transform="rotate(-22.598373)" />
+    <ellipse
+       style="opacity:0.82900002;fill:#ffcc00;fill-opacity:1;stroke-width:0.93697435;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path815"
+       cx="4.794147"
+       cy="291.89685"
+       rx="1.637026"
+       ry="1.6286737" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="4.2324567"
+       y="293.03622"
+       id="text819-1"><tspan
+         sodipodi:role="line"
+         x="4.2324567"
+         y="293.03622"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.41111112px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan821-5">APP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="3.3575737"
+       y="291.77151"
+       id="text819"><tspan
+         sodipodi:role="line"
+         x="3.3575737"
+         y="291.77151"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan821">GIT</tspan></text>
+  </g>
+</svg>

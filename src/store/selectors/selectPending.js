@@ -1,0 +1,1 @@
+export const selectPending = (state) => state.presentation.pending;
